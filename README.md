@@ -79,8 +79,6 @@ Each row represents a **loan applicant**.
 
 * Logistic Regression
 * k-Nearest Neighbors (kNN)
-* Decision Tree
-* Random Forest
 * Naive Bayes
 
 Best model selected based on:
